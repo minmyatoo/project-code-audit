@@ -1,5 +1,7 @@
 # ProjectCodeAudit
 
+![ss.gif](ss.gif)
+
 ProjectCodeAudit is a tool for running Code Climate analysis on your codebase using Docker. This repository contains a helpful batch script and all the necessary components to simplify the process of running Code Climate analysis on your projects.
 
 ## Prerequisites
